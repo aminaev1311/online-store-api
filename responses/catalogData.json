@@ -8,5 +8,10 @@
     "id_product": 456,
     "product_name": "Мышка",
     "price": 1000
+  },
+  {
+    "id_product": 111,
+    "product_name": "Macbook",
+    "price": 10000
   }
 ]
