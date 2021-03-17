@@ -6,17 +6,22 @@
   },
   {
     "id_product": 456,
-    "product_name": "Мышь",
+    "product_name": "Мышка",
     "price": 1000
   },
   {
     "id_product": 111,
     "product_name": "Macbook",
+    "price": 100000
+  },
+  {
+    "id_product": 1,
+    "product_name": "iPad",
     "price": 10000
   },
   {
     "id_product": 1,
-    "product_name": "Булавка",
-    "price": 1
+    "product_name": "Электронная книга",
+    "price": 50000
   }
 ]
